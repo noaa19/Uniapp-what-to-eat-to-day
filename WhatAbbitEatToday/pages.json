@@ -1,0 +1,46 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"backgroundColor":"#f9dae9"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/index/food",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"backgroundColor":"#f9dae9"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/index/menu",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"backgroundColor":"#f9dae9"
+					}
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Almost-Lottery抽奖转盘",
+		"navigationBarBackgroundColor": "#f9dae9f5",
+		"backgroundColor": "#f9dae9f5"
+	}
+}
